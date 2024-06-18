@@ -1,3 +1,12 @@
+This is a showcase of my Final Year Project which is based on the concept of Mathematical Morphology
+Mathematical Morphology can be summarised as techniques that were initially used to anbalyse gemetical structures but evolved to be commonly used in image processing. The aim of this project was to extend the applications into graph data structures, to be more specific, in 4 adjacency grids. As the underlying concept is based on set theory , theorectical studies have been conducted and proved that this technique can be utilised in graphs, but no practical solutions were found that are publicly availabe.
+
+While the interface may seem basic, more effort was put into how to effectively select subgraphs in a user-friendly manner, and the operations themselves
+
+To understand more about the topic  --> Read the FYP-DOC. This is my written report on the topic and explains the concept to adequate detail.
+
+
+
 This project Makes use of Several Open Source Projects, which are used to create this product.
 
 System Requirements:
