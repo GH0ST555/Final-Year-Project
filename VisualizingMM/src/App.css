@@ -1,0 +1,66 @@
+
+
+.modal {
+  width: auto;
+  height: auto;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box; 
+  overflow: scroll !important;
+}
+
+.Graphs {
+  width: auto;
+  height: auto;
+  max-width: 90vw;
+  display: flex;
+  flex-direction: row; 
+  box-sizing: border-box; 
+  align-items: flex-start; 
+  justify-content: space-between;
+}
+
+.GraphContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  width: 100%; 
+}
+
+
+.SE {
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: row; 
+  box-sizing: border-box; 
+  align-items: start; 
+}
+
+
+
+.graph-container {
+  max-width: 100%; 
+  display: inline-flex; 
+  justify-content: center;
+  align-items: center;
+  margin: 10px; 
+  flex: 1 1 auto; 
+}
+
+
+
+
+.text-container {
+  display: block; 
+}
+
+
+.popups{
+  width: auto;
+  height: auto;
+  max-width: 90vw;
+
+}
+
